@@ -4,6 +4,6 @@ great care in the experience, architecture, and code quality of the things I bui
 I am also an open-source enthusiast and maintainer. I learned a lot from the open-source
 community and I love how collaboration and knowledge sharing happened through
 open-source.
-![Alt Text](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
+![Alt Text](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)<br />
     •💼 any freelance work? do reach, email :)<br />
     •💬 ask me about anything, i am happy to help<br />
