@@ -5,5 +5,5 @@ I am also an open-source enthusiast and maintainer. I learned a lot from the ope
 community and I love how collaboration and knowledge sharing happened through
 open-source.
 ![Alt Text](https://raw.githubusercontent.com/abhisheknaiidu/abhisheknaiidu/master/code.gif)
-•💼 any freelance work? do reach, email :)
-•💬 ask me about anything, i am happy to help
+    •💼 any freelance work? do reach, email :)<br />
+    •💬 ask me about anything, i am happy to help<br />
